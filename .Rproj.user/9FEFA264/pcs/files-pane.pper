@@ -1,0 +1,9 @@
+{
+    "path" : "~/special-lamp",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
