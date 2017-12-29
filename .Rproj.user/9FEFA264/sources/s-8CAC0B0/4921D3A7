@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1135529589",
+    "hash" : "0",
     "id" : "4921D3A7",
-    "lastKnownWriteTime" : 1509418501,
-    "last_content_update" : 1509418501,
+    "lastKnownWriteTime" : 1514579413,
+    "last_content_update" : 1514579413543,
     "path" : "~/special-lamp/content/home/about.md",
     "project_path" : "content/home/about.md",
     "properties" : {
-        "cursorPosition" : "0,0",
-        "scrollLine" : "0"
+        "cursorPosition" : "23,68",
+        "scrollLine" : "14"
     },
     "relative_order" : 10,
     "source_on_save" : false,

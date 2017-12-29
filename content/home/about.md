@@ -42,6 +42,6 @@ weight = 5
 
 Dr. Eichler co-chairs the university's Distance and Extended Learning Steering Committee and serves as the chairperson of the [Asia-Pacific Consortium of Researchers and Educators](http://apcoreinc.org/). He has served as a visiting faculty member at the [Polytechnic University of the Philippines](https://www.pup.edu.ph/) and has spoken throughout southeast Asia.
 
-He has worked with a variety of [United States Department of Agriculture](http://www.usda.gov) funded projects and proposals, including RURAL-V (Reaching Underserved Rural Agricultural Latinos and Veterans) and Boots to Roots. His work includes outreach and education to small producers throughout central Texas and recruiting non-traditional students to agricultural occupations.
+He has worked with a variety of [United States Department of Agriculture](http://www.usda.gov) funded projects and proposals, including [RURAL-V](http://www.smallproducersinitiative.txstate.edu/) (Reaching Underserved Rural Agricultural Latinos and Veterans) and [Boots to Roots](http://www.boots2roots.txstate.edu/). His work includes outreach and education to small producers throughout central Texas and recruiting non-traditional students to agricultural occupations.
 
 He is an avid R, RStudio, and Linux user and computer programmer.
