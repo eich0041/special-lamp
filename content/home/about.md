@@ -40,7 +40,7 @@ weight = 5
 
 # Biography
 
-Dr. Eichler co-chairs the university's Distance and Extended Learning Steering Committee and serves as the chairperson of the [Asia-Pacific Consortium of Researchers and Educators](http://apcoreinc.org/). He has served as a visiting faculty member at the [Polytechnic University of the Philippines](https://www.pup.edu.ph/) and has spoken throughout southeast Asia. At Texas State University, Dr. Eichler serves as the faculty coordinator of graduate programs and program advisor for the [Department of Occupational, Workforce, and Leadership Studies](http://www.owls.txstate.edu/), which hosts two distinctive masters degree programs,
+Dr. Eichler co-chairs the university's Distance and Extended Learning Steering Committee and serves as the chairperson of the [Asia-Pacific Consortium of Researchers and Educators](http://apcoreinc.org/). He has served as a visiting faculty member at the [Polytechnic University of the Philippines](https://www.pup.edu.ph/) and has spoken throughout southeast Asia. At Texas State University, Dr. Eichler serves as the faculty coordinator of graduate programs for the [Department of Occupational, Workforce, and Leadership Studies](http://www.owls.txstate.edu/), which hosts two distinctive masters degree programs,
 
 * [Interdisciplinary Studies with a concentration in Occupational, Workforce, and Leadership Studies](http://www.owls.txstate.edu/graduate-degrees/interdisciplinary-studies.html), and
 * [Management of Technical Education](http://www.owls.txstate.edu/graduate-degrees/management-technical-education.html).
