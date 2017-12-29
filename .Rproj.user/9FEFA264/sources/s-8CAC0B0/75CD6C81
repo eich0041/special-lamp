@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "806658668",
+    "hash" : "164553808",
     "id" : "75CD6C81",
-    "lastKnownWriteTime" : 1514397164,
-    "last_content_update" : 1514397164478,
+    "lastKnownWriteTime" : 1514584652,
+    "last_content_update" : 1514584652486,
     "path" : "~/special-lamp/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "19,0",
+        "cursorPosition" : "33,17",
         "scrollLine" : "0"
     },
     "relative_order" : 1,
